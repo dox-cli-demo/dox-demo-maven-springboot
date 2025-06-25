@@ -8,7 +8,7 @@ on:
   
 jobs:
   cicd:
-    runs-on: ubuntu-latest
+    runs-on: dox-runner-set
     env:
       JDK_VERSION: 17
 
